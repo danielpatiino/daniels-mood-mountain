@@ -5,7 +5,7 @@ A minimalistic mood tracking app to log your daily mood and journal notes, built
 ---
 
 ## 🚀 Demo
-[Live Demo](#)
+[Live Demo](https://daniels-mood-mountain.vercel.app/)
 
 ---
 
